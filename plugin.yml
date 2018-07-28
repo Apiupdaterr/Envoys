@@ -1,0 +1,9 @@
+name: Envoys
+main: bajan\Envoys\Main
+version: 0.0.1
+api: [3.1.1]
+author: BajanVlogs
+description: Spawn envoys in the warzone for you players to collect items
+commands:
+ setenvoy:
+  description: Set an envoy
